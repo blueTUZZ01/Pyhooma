@@ -46,7 +46,7 @@ Pyhooma needs python3 to run.
 If you don't installed python3:
 ```apt install python3```
 Else if you have windows - download python on official site 
-https://www.python.org/downloads/
+https://www.python.org/downloads/.
 Then after python3 installation, start install and run Pyhooma
 ```
 git clone https://github.com/blueTUZZ01/Pyhooma
