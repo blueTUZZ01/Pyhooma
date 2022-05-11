@@ -38,6 +38,9 @@ Pyhooma - is a easy reverse shell tool maded on python3
 ```disconnect_&_delete```
 to delete reverse shell file on target computer
 
+Screenshot and webcam photo will be saved in folder "Photo"
+Donwloaded files will be saved in folder "Downloads"
+
 ## Installation
 Pyhooma needs python3 to run.
 If you don't installed python3:
@@ -54,4 +57,11 @@ To build reverse shell file add argument -b
 ```
 python3 PYHOOMA.py -b
 ```
-After running the file wait while revesre shell will be connected
+To setup shell connection, in folder "ReverseSet" redact file "Ip" and "Port".
+If you wanna log all shell results add argument -l
+```
+python3 PYHOOMA.py -p <port> -l
+```
+After running the file wait while revesre shell will be connected.
+If you will find any bugs - contact with me at telegram
+@N_B_K_1
