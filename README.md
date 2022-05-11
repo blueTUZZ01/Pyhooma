@@ -49,7 +49,7 @@ Else if you have windows - download python on official site
 https://www.python.org/downloads/.
 Then after python3 installation, start install and run Pyhooma
 ```
-git clone https://github.com/blueTUZZ01/Pyhooma
+git clone https://github.com/blueTUZZ01/Pyhooma.git
 cd Pyhooma
 python3 PYHOOMA.py -p <port>
 ```
