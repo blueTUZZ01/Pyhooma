@@ -1,0 +1,11 @@
+DOWNLOAD - DOWNLOAD SPECIFIED FILE 
+(download <file_path>)
+*-------------------------------------*
+DISCONNECT - STOP CONNECTION
+*-------------------------------------*
+SHELL - EXECUTE SHELL COMMAND
+(shell <command>)
+*-------------------------------------*
+SCREENSHOT - TAKE MONITOR SCREENSHOT
+*-------------------------------------*
+PHOTO - TAKE WEBCAM PHOTO
