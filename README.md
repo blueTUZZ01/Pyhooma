@@ -63,5 +63,3 @@ If you wanna log all shell results add argument -l
 python3 PYHOOMA.py -p <port> -l
 ```
 After running the file wait while revesre shell will be connected.
-If you will find any bugs - contact with me at telegram
-@N_B_K_1
